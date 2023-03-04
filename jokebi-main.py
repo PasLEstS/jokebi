@@ -1,1 +1,1 @@
-bezinga
+print('bazinga')
