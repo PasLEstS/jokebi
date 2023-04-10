@@ -1,1 +1,1 @@
-print('bazinga')
+print('kebi dead')
